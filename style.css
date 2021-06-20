@@ -43,7 +43,7 @@ body {
   background-color: #f8fffb;
 }
 .shadow {
-  box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
 }
 .card-width img {
   width: 30%;
